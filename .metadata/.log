@@ -9846,3 +9846,6 @@ java.io.IOException: Unable to resolve plug-in "org.eclipse.jdt.ui".
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-09-08 22:42:21.371
+!MESSAGE Indexed 'ejercicio4-1' (1 sources, 14 headers) in 0,121 sec: 951 declarations; 1.930 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0 %)
