@@ -9849,3 +9849,6 @@ java.io.IOException: Unable to resolve plug-in "org.eclipse.jdt.ui".
 
 !ENTRY org.eclipse.cdt.core 1 0 2022-09-08 22:42:21.371
 !MESSAGE Indexed 'ejercicio4-1' (1 sources, 14 headers) in 0,121 sec: 951 declarations; 1.930 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0 %)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-09-08 22:57:58.586
+!MESSAGE Indexed 'ejercicio4-2' (1 sources, 14 headers) in 0,068 sec: 951 declarations; 1.930 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0 %)
